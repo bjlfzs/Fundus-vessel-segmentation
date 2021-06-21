@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train.py --save UNet_vessel_seg --batch_size 64
